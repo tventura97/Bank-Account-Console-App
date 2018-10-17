@@ -1,2 +1,2 @@
 # Bank-Account-Console-App
-Simple account management console application. Written in C++.
+Simple bank account management console application. Written in C++.
